@@ -1,9 +1,37 @@
-Cross Selling
-    GENERAL INSURANCE
-             1.Motor Insurance
-             2.Personal Insurance
-             3.Fire Insurance
-    PREDICTING FRAUD
-             1.Fraudlence in claim processing
-             2.Reserve Loss
-             3.Settlement in claim processing
+Module Split-Up
+Module 1: GENERAL INSURANCE - Personal Insurance [By Subashini U]
+             1.Data Extraction
+             2.Data Manipulation
+             3.Analyzing
+             4.Data Presentation
+Module 2: GENERAL INSURANCE - Fire Insurance [By Thenmozhi S]
+             1.Data Extraction
+             2.Data Manipulation
+             3.Analyzing
+             4.Data Presentation
+Module 3: GENERAL INSURANCE - Motor Insurance [By Santhosh C M]
+             1.Data Extraction
+             2.Data Manipulation
+             3.Analyzing
+             4.Data Presentation            
+Module 4: PREDICTING FRAUD - Fraudlence in claim processing [By Sanghavi R]
+             1.Data Extraction
+             2.Data Manipulation
+             3.Analyzing
+             4.Data Presentation      
+      
+      
+
+PROJECT TIMELINE
+Module 1:
+        Module                      Starting Date         Ending Date
+        1.Data Extraction           17 DEC 17             26 DEC 17
+        2.Data Manipulation         27 DEC 17             06 JAN 18
+        3.Analyzing                 29 DEC 17             31 JAN 18
+        4.Data Presentation         01 FEB 17             10 FEB 18
+Module 2:
+        Module                      Starting Date         Ending Date
+        1.Data Extraction           17 DEC 17             26 DEC 17
+        2.Data Manipulation         27 DEC 17             06 JAN 18
+        3.Analyzing                 29 DEC 17             31 JAN 18
+        4.Data Presentation         01 FEB 17             10 FEB 18
