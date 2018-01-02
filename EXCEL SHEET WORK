@@ -1,0 +1,26 @@
+PRIVATE Insured					
+					
+            AGE		     <18	   18-40	    41-80	    >80
+     BUSINESS		N	N	N	N
+  OCCUPATION	STUDENT   -    YES		N		
+	EMP - GOV - YES		N		
+	Emp - Private - Y		Y		
+       SALARY			5L TO 10 L		
+  NATIONALITY			I		
+       GENDER			F		
+MARITAL STATUS			M		
+           GST			N		
+					
+					
+Business Insured					
+					
+            AGE		     <18	   18-40	    41-80	    >80
+     BUSINESS		N	N	Y	N
+  OCCUPATION	STUDENT   -    YES			N	
+	EMP - GOV - YES			N	
+	Emp - Private - Y			N	
+       SALARY				5L TO 10 L	
+  NATIONALITY				I	
+       GENDER				F	
+MARITAL STATUS				M	
+           GST				Y	
